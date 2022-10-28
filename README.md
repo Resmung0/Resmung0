@@ -28,9 +28,10 @@
 
 ## How to reach me
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=f20d63)](mg.21191077@gmail.com)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=f20d63)](https://www.linkedin.com/in/marcos-gabriel-guimar%C3%A3es-de-assis-271b17177/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=f20d63)](https://www.linkedin.com/in/marcosggassis/)
 [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&color=f20d63)](https://www.kaggle.com/marcosgabriel)
- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=f20d63)](https://www.instagram.com/mrcosgabriel_/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=f20d63)](https://www.instagram.com/mrcosgabriel_/)
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=f20d63)](https://medium.com/@mg.21191077)
  
 
 ---
