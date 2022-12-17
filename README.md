@@ -1,7 +1,7 @@
 ![contributions](https://badgen.net/badge/contributions/welcome/ca115a)
 ![watchers](https://badgen.net/github/watchers/Resmung0/Resmung0?icon=github&color=ca115a)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f20d63&height=250&section=header&text=Marcos%20Gabriel&fontColor=181B28&&fontAlignY=35&fontSize=90&animation=twinkling&desc=Data%20Scientist&descSize=60&descAlignY=70)
+![banner](https://github.com/Resmung0/Resmung0/blob/main/banner.png)
 
 # About me
 
