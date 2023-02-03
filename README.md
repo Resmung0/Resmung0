@@ -7,8 +7,13 @@
 
 * :mortar_board: I have a bachelor's degree in Mechatronics Engineering by Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) in Brazil;
 
+# Some stats
 
-## How to reach me
+![Marcos Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Resmung0&bg_color=181B28&icon_color=f20d63&text_color=ffffff&title_color=f20d63&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Resmung0&layout=compact&bg_color=181B28&title_color=f20d63&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Resmung0&bg_color=181b28&color=ffffff&line=f20d63&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# How to reach me
 
 <div align="center">
 <a href="mg.21191077@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=f20d63"></a>
@@ -17,11 +22,3 @@
 <a href="https://www.instagram.com/mrcosgabriel_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=f20d63"></a>
 <a href="https://medium.com/@mg.21191077" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=f20d63"></a>
 </div>
-
----
-
-![Marcos Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Resmung0&bg_color=181B28&icon_color=f20d63&text_color=ffffff&title_color=f20d63&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Resmung0&layout=compact&bg_color=181B28&title_color=f20d63&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Resmung0&bg_color=181b28&color=ffffff&line=f20d63&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=f20d63&height=150&section=footer)
