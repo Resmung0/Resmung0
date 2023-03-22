@@ -15,7 +15,7 @@
 
 # Projects
 
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Resmung0&repo=container-logistic-analysis&bg_color=181B28&icon_color=f20d63&text_color=ffffff&title_color=f20d63)](https://github.com/Resmung0/container-logistics-analysis)
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Resmung0&repo=container-logistic-analysis&bg_color=181B28&icon_color=f20d63&text_color=ffffff&title_color=f20d63)](https://github.com/Resmung0/container-logistic-analysis)
 
 # Latest article
 
