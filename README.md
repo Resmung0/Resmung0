@@ -1,5 +1,6 @@
 ![contributions](https://badgen.net/badge/contributions/welcome/ca115a)
 ![watchers](https://badgen.net/github/watchers/Resmung0/Resmung0?icon=github&color=ca115a)
+![viewrs](https://komarev.com/ghpvc/?username=Resmung0&color=ca115a)
 
 <p align="center">
   <img src="https://github.com/Resmung0/Resmung0/blob/main/banner.gif" alt="Hi, i'm Marcos Gabriel">
